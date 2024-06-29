@@ -1,5 +1,5 @@
 const jwt=require('jsonwebtoken');
-const secretkey="ishfcikhihfikwshfishfikwsh";
+const secretkey="hikawhhhveshgeuhyfiegfvkbhvkhnvkhvfkih";
 const verifycontroller=async(req,res,next)=>{
     try{
         const token=req.headers['authorization'];
